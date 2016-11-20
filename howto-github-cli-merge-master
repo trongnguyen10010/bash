@@ -1,0 +1,4 @@
+#created by tn
+git checkout master
+git merge draft
+git push origin master
